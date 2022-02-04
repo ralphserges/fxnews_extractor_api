@@ -1,0 +1,13 @@
+2022-02-04 21:18:01.681  WARN 11248 --- [main] ory$DuplicateJsonObjectContextCustomizer : 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/LIU%20ZI%20AN/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/LIU%20ZI%20AN/.m2/repository/org/json/json/20211205/json-20211205.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2022-02-04 21:18:01.738  INFO 11248 --- [main] .l.F.ForexNewsSummarizerApplicationTests : Starting ForexNewsSummarizerApplicationTests using Java 11.0.2 on LAPTOP-5IUDAS49 with PID 11248 (started by LIU ZI AN in C:\Users\LIU ZI AN\Desktop\Java WorkSpace\ForexNewsSummarizer\ForexNewsSummarizer)
+2022-02-04 21:18:01.739 DEBUG 11248 --- [main] .l.F.ForexNewsSummarizerApplicationTests : Running with Spring Boot v2.6.2, Spring v5.3.14
+2022-02-04 21:18:01.739  INFO 11248 --- [main] .l.F.ForexNewsSummarizerApplicationTests : No active profile set, falling back to default profiles: default
+2022-02-04 21:18:04.366  INFO 11248 --- [main] .l.F.ForexNewsSummarizerApplicationTests : Started ForexNewsSummarizerApplicationTests in 3.306 seconds (JVM running for 5.521)
